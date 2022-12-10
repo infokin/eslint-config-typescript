@@ -1,4 +1,4 @@
-# ESLint Configuration (TypeScript)
+# TypeScript ESLint Configuration
 
 This package provides a common Typescript specific ESLint configuration.
 
