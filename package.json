@@ -1,0 +1,38 @@
+{
+  "name": "@infokin/eslint-config-typescript",
+  "version": "0.0.0",
+  "description": "Provides a common ESLint configuration for TypeScript.",
+  "keywords": [
+    "eslint",
+    "configuration",
+    "typescript"
+  ],
+  "homepage": "https://github.com/infokin/eslint-config-typescript#readme",
+  "bugs": {
+    "url": "https://github.com/infokin/eslint-config-typescript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infokin/eslint-config-typescript.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Johannes Hillert",
+    "email": "johannes.hillert@infokin.org",
+    "url": "https://www.infokin.org"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-pattern '/test/' .",
+    "test": "eslint --ext .ts ./test"
+  },
+  "devDependencies": {
+    "@infokin/eslint-config": "^2.0.1",
+    "@infokin/tsconfig": "^1.1.2",
+    "@types/node": "^18.11.12",
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "@typescript-eslint/parser": "^5.46.0",
+    "eslint": "^8.29.0",
+    "typescript": "^4.9.4"
+  }
+}
