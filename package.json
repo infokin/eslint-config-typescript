@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "description": "Provides a common ESLint configuration for TypeScript.",
   "keywords": [
+    "typescript",
     "eslint",
-    "configuration",
-    "typescript"
+    "eslint-config"
   ],
   "homepage": "https://github.com/infokin/eslint-config-typescript#readme",
   "bugs": {
