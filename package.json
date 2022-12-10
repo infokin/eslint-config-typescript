@@ -1,6 +1,6 @@
 {
   "name": "@infokin/eslint-config-typescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides a common ESLint configuration for TypeScript.",
   "keywords": [
     "eslint",
