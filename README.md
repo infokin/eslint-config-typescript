@@ -28,6 +28,8 @@ configuration file and provide a TypeScript configuration file.
 A minimal example for your project's `.eslintrc.js` file could look like this:
 
 ```javascript
+"use strict";
+
 module.exports = {
   root: true,
   extends: [
