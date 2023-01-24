@@ -27,7 +27,7 @@
     "test": "eslint --ext .ts ./test"
   },
   "devDependencies": {
-    "@infokin/eslint-config": "^2.0.6",
+    "@infokin/eslint-config": "^2.0.7",
     "@infokin/tsconfig": "^2.0.0",
     "@types/node": "^18.11.12",
     "@typescript-eslint/eslint-plugin": "^5.46.0",
